@@ -1,2 +1,2 @@
-# ste
-SuperTextEditor is very functional text editor for PyOS
+# What is ste
+SuperTextEditor is functional text editor for PyOS
